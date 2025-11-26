@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Crystal Clear 20-Gallon Aquarium Tank",
+    "category": "Tanks",
+    "price": 129.99,
+    "image": "images/tanks/tank1.jpg",
+    "description": "A crystal clear 20-gallon tank with sturdy glass panels and sleek design, perfect for freshwater fish."
+  },
+  {
+    "id": 2,
+    "name": "Nano 10-Gallon Aquarium Tank",
+    "category": "Tanks",
+    "price": 89.99,
+    "image": "images/tanks/tank2.jpg",
+    "description": "Compact 10-gallon tank ideal for small aquascapes or beginner setups."
+  },
+  {
+    "id": 3,
+    "name": "Fluval 15-Gallon Freshwater Tank",
+    "category": "Tanks",
+    "price": 139.99,
+    "image": "images/tanks/tank3.jpg",
+    "description": "High-quality 15-gallon freshwater tank with included filtration system."
+  },
+  {
+    "id": 4,
+    "name": "AquaClear 50 Filter",
+    "category": "Filters",
+    "price": 59.99,
+    "image": "images/filters/filter1.jpg",
+    "description": "Powerful 50-gallon filter with multi-stage filtration for clean water."
+  },
+  {
+    "id": 5,
+    "name": "Fluval C Power Filter",
+    "category": "Filters",
+    "price": 79.99,
+    "image": "images/filters/filter2.jpg",
+    "description": "Quiet and efficient power filter suitable for medium aquariums."
+  },
+  {
+    "id": 6,
+    "name": "Marineland Penguin 350 Filter",
+    "category": "Filters",
+    "price": 69.99,
+    "image": "images/filters/filter3.jpg",
+    "description": "Easy-to-use filter for aquariums up to 40 gallons."
+  },
+  {
+    "id": 7,
+    "name": "LED Aquarium Light 24-Inch",
+    "category": "Lights",
+    "price": 49.99,
+    "image": "images/lights/light1.jpg",
+    "description": "Full-spectrum LED light designed for freshwater plants and fish."
+  },
+  {
+    "id": 8,
+    "name": "Fluval Plant 24/7 LED",
+    "category": "Lights",
+    "price": 69.99,
+    "image": "images/lights/light2.jpg",
+    "description": "Programmable LED lighting with natural daylight spectrum for planted tanks."
+  },
+  {
+    "id": 9,
+    "name": "Clip-On Aquarium Light 12-Inch",
+    "category": "Lights",
+    "price": 34.99,
+    "image": "images/lights/light3.jpg",
+    "description": "Adjustable clip-on light, ideal for nano tanks or desktop aquariums."
+  },
+  {
+    "id": 10,
+    "name": "Decorative Driftwood Set",
+    "category": "Decor",
+    "price": 24.99,
+    "image": "images/decor/decor1.jpg",
+    "description": "Natural driftwood pieces to enhance your aquarium’s aesthetics."
+  },
+  {
+    "id": 11,
+    "name": "Aquatic Plant Starter Kit",
+    "category": "Decor",
+    "price": 29.99,
+    "image": "images/decor/decor2.jpg",
+    "description": "Includes 5 easy-to-grow live aquatic plants for beginners."
+  },
+  {
+    "id": 12,
+    "name": "Rock & Gravel Aquarium Set",
+    "category": "Decor",
+    "price": 19.99,
+    "image": "images/decor/decor3.jpg",
+    "description": "Assorted rocks and gravel to decorate any aquarium naturally."
+  }
+]
