@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HomePage</title>
+    <link rel="stylesheet" href="CSS/index.css">
+    <script src="./Script/main.js"></script>
+</head>
+<body>
+  
+  <!-- ================= HEADER ================= -->
+  <header class="navbar">
+    <div class="logo">BigFishAquariums</div>
+
+    <nav>
+      <ul class="nav-links" id="navLinks">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="products.html">Products</a></li>
+        <li><a href="category.html?cat=Tanks">Tanks</a></li>
+        <li><a href="category.html?cat=Filters">Filters</a></li>
+        <li><a href="category.html?cat=Lights">Lights</a></li>
+      </ul>
+    </nav>
+
+    <div class="cart-icon">
+      🛒 <span id="cartCount">0</span>
+    </div>
+
+    <div class="menu-btn" id="menuBtn">☰</div>
+  </header>
+
+  <!-- ================= HERO SECTION ================= -->
+  <section class="hero">
+    <div class="hero-content">
+      <h1>Welcome to BigFishAquariums</h1>
+      <p>Your #1 source for tanks, supplies & quality aquarium equipment.</p>
+      <a href="products.html" class="btn hero-btn">Shop Now</a>
+    </div>
+  </section>
+
+  <!-- ================= CATEGORY SECTION ================= -->
+  <section class="categories">
+    <h2 class="section-title">Shop by Category</h2>
+
+    <div class="category-grid">
+
+      <a href="category.html?cat=Tanks" class="category-card">
+        <h3>Tanks</h3>
+      </a>
+
+      <a href="category.html?cat=Filters" class="category-card">
+        <h3>Filters</h3>
+      </a>
+
+      <a href="category.html?cat=Lights" class="category-card">
+        <h3>Lighting</h3>
+      </a>
+
+      <a href="category.html?cat=Decor" class="category-card">
+        <h3>Decorations</h3>
+      </a>
+
+    </div>
+  </section>
+
+  <!-- ================= FEATURED PRODUCTS ================= -->
+  <section class="featured">
+    <h2 class="section-title">Featured Products</h2>
+    <div class="product-grid" id="featuredProducts">
+      <!-- JS will inject 3 featured items here -->
+    </div>
+  </section>
+
+  <!-- ================= FOOTER ================= -->
+  <footer class="footer">
+    <p>© 2025 BigFishAquariums — All Rights Reserved</p>
+  </footer>
+
+
+</body>
+</html>
